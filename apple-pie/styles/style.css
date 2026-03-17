@@ -22,3 +22,15 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+#recipe-header{
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
