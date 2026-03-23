@@ -62,18 +62,13 @@ hr{
   padding: 40px 20px;
 } 
 
-p,{
+p {
   line-height: 1.6;
   color: #333;
   font-size: 1.1em;
   text-align: center;
 }
 
-./*ingredients-list, .cooking-directions {
-  padding-left: 20px;
-  margin-top: 20px;
-}*/
-  
 li {
   margin-bottom: 5px;
   width: auto;
@@ -83,7 +78,7 @@ li {
   padding-left: 5px;
 }
 
-.ingredients-list, {
+.ingredients-list {
   padding-left: 15px;
   list-style-type: "- ";
   margin-top: 10px;
@@ -95,7 +90,7 @@ li {
   margin: 30px 0; 
 }
 
-.cooking-info img {
+.cooking-info {
   margin: 30px 0;
   justify-content: center;
   display: flex;
@@ -112,6 +107,7 @@ li {
   max-width: 100%;
   height: auto;
 }
+
 ul, ol {
   margin-left: 20px;
   line-height: 1.6;
